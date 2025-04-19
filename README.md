@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita...</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita-2499&label=Profile%20views&color=0e75b6&style=flat" alt="nikita-2499" /> </p>
 
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Django Frameworks**
 
 - 📫 How to reach me **nikitabunewad935@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
